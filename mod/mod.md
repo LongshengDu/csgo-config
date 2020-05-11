@@ -1,6 +1,6 @@
 # Mods
 
-### sourcemod
+### Sourcemod
 
 https://www.sourcemod.net/downloads.php
 
