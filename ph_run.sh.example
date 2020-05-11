@@ -1,0 +1,2 @@
+./srcds_run -game csgo -console -usercon -nomaster -port 2244 +game_type 3 +game_mode 0 +host_workshop_collection 1604678732 +workshop_start_map 1318299302 -authkey "" +sv_setsteamaccount ""
+
