@@ -1,2 +1,1 @@
 ./srcds_run -game csgo -console -usercon -nomaster -net_port_try 1 -port 1144 -tickrate 128 -maxplayers_override 12 +game_type 0 +game_mode 1 +mapgroup mg_active +map de_inferno -authkey "" +sv_setsteamaccount ""
-
